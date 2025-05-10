@@ -39,3 +39,14 @@ Achieved around **99% accuracy on the training set** and over **98% on the test 
 ## 📎 Example Output
 
 Prediction on a test image:
+Predicted number: 7
+
+## 📑 Notes
+
+For recruiters and developers:  
+This project is intended as a simple, clean demonstration of a basic image classification pipeline using CNNs with TensorFlow.
+
+---
+
+Created by Angelo Sorte 🚀
+
